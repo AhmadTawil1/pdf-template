@@ -9,7 +9,7 @@ This project automates the creation of structured **PDF reports**.
 
 ## 🛠️ Installation & Setup
 ```bash
-git clone https://github.com/AhmadTawil1/python-pdf-maker.git
+git clone https://github.com/AhmadTawil1/pdf-template.git
 cd pdf-template
 pip install -r requirements.txt
 ```
